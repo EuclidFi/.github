@@ -5,8 +5,9 @@ EuclidFi redefines asset management in the decentralized finance (DeFi) space by
 ![euclidswap](./euclidfi.png)
 
 ## Deployements: 
-archway Testnet : archway1hfkp54nwrm3y8x3998rdgh2e355pynvltjksaycu89k9plfu7cdqm7akyv
-website : https://euclidfi.vercel.app/
+- archway Testnet : archway1hfkp54nwrm3y8x3998rdgh2e355pynvltjksaycu89k9plfu7cdqm7akyv
+
+- website : https://euclidfi.vercel.app/
 
 
 ## 🚀 Core Features
