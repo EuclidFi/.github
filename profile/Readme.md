@@ -2,6 +2,10 @@
 
 EuclidFi redefines asset management in the decentralized finance (DeFi) space by leveraging virtual liquidity pools and cross-chain infrastructure of EuclidProtocol to provide instant, low-cost transactions. With interoperability and efficiency at its core, EuclidFi delivers a seamless, intuitive, and scalable solution for managing, swapping, and investing in digital assets across multiple blockchains.
 
+## Deployements: 
+archway Testnet : archway1hfkp54nwrm3y8x3998rdgh2e355pynvltjksaycu89k9plfu7cdqm7akyv
+
+
 ## 🚀 Core Features
 🌉 Cross-Chain Asset Management
 Manage portfolios across multiple blockchains from a unified dashboard.
